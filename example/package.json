@@ -1,0 +1,22 @@
+{
+  "author": "Chris Dolphin",
+  "license": "Apache-2.0",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-native-web": "^0.8.8",
+    "source-map-loader": "^0.2.3",
+    "webpack": "3.9.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^2.10.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.2.x",
+    "react-dom": ">=16.2.x"
+  }
+}

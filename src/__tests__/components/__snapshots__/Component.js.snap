@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SomeComponent Snapshot 0 should match 1`] = `
+<div>
+  <div
+    onClick={[Function]}
+  >
+    Click Me!
+  </div>
+  <View
+    style={
+      Object {
+        "backgroundColor": "lightblue",
+        "flex": 1,
+        "padding": 0,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "rgba(0,0,0,0.3)",
+          "borderWidth": 1,
+          "flexDirection": "row",
+          "height": 80,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#333",
+          }
+        }
+      >
+        Hello
+      </Text>
+    </View>
+  </View>
+  <t
+    className="SVG-container"
+    raw="test-file-stub"
+    style={
+      Object {
+        "display": "none",
+      }
+    }
+  />
+</div>
+`;
